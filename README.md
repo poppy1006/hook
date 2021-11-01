@@ -4,7 +4,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone https://github.com/poppy1006/hook`
+* `git clone https://github.com/poppy1006/hook.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -12,16 +12,16 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone https://github.com/poppy1006/hook ; cd hook ; bash setup ; bash hook
+apt update ; apt install git -y ; git clone https://github.com/poppy1006/hook.git ; cd hook ; bash setup ; bash hook
 ```
 <br>
 
 
-### <<< If you copy , Then Give me The Credits >>>
+
 
 ## Features :
 #### [#] Latest Login Pages !
-#### [#] 5 Port Forwarding Options !
+#### [#] 5 Port Forwarding Options !(working on it bye the way currently 3)
 #### [#] Easy for Beginners !
 
 
