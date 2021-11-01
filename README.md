@@ -21,7 +21,7 @@ apt update ; apt install git -y ; git clone https://github.com/poppy1006/hook.gi
 
 ## Features :
 #### [#] Latest Login Pages !
-#### [#] 5 Port Forwarding Options !(working on it bye the way currently 3)
+#### [#] 5 Port Forwarding Options !(working on it.....currently 3 woring)
 #### [#] Easy for Beginners !
 
 
