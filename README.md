@@ -5,7 +5,7 @@
 * `apt update`
 * `apt install git -y`
 * `git clone https://github.com/poppy1006/hook.git`
-* `cd nexphisher`
+* `cd hook`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
 #### > Run : `bash hook`
